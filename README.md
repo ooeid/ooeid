@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-A Software Engineer, working on enterprise and open source technologies, moslty JavaScript framework React & Node js 🚀.
+A Software Engineer, working on enterprise and open source technologies, moslty JavaScript framework React & Node js 🚀. I love sloving problems and automating solutions. 
 
-  <img align="right" alt="GIF" width="400" src="https://github.com/tkssharma/tkssharma/blob/master/profile.gif" />
 
   
 **Talking about Personal Stuffs:**
